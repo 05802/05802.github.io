@@ -4,6 +4,7 @@ title: 2020.04.27
 ---
 
 **CLIMATE**
+```
 Optimistic start to the week. 
 * Equity markets in Asia, Europe and USA are positive. 
 * Risk off: Dollar down, EM up, EU perifphary up, EU core down. 
@@ -13,8 +14,10 @@ Politicians around the world discussing plan to emerge from quarantine.
 	New Zealand has 0 new cases 
 	Italy prepares to announce plan 
 	Some US states implemented phase 1. 
+```
 
-EXPECTED 
+**EXPECTED** 
+
 WED APR29 0830 - Advance USA GDP Q1 est.
 	consensus: - 4.0%
 WED APR29 1400 - FOMC Meeting Announcement 
