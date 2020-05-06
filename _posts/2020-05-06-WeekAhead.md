@@ -1,11 +1,10 @@
 ---
 layout: post
 title: 2020.04.27
-category: Week Ahead
+category: [Week Ahead]
 ---
 
-**CLIMATE**
-```
+**CLIMATE**  
 Optimistic start to the week. 
 * Equity markets in Asia, Europe and USA are positive. 
 * Risk off: Dollar down, EM up, EU perifphary up, EU core down. 
