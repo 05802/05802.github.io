@@ -17,7 +17,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 ```
 
 **EXPECTED** 
-
+```
 WED APR29 0830 - Advance USA GDP Q1 est.
 	consensus: - 4.0%
 WED APR29 1400 - FOMC Meeting Announcement 
@@ -27,8 +27,9 @@ WED APR29 1430 - FOMC Meeting Announcement
 THR APR 30 0745 - ECB Monetary Policy Decisions 
 THR APR 30 0830 - US Weekly unemployment claims 
 	conensus: 3.5m vs 4.4m (w/w) 
-
-WATCH 
+```
+**THEMES**
+```
 OIL - WTI vs. Brent & trend 
 	June, July, Aug prices - indication of expected demand, economic activity 
 	Land locked North American oil vs. floating European oil - relative recovery expectations? 
@@ -37,4 +38,4 @@ OIL - WTI vs. Brent & trend
 
 Phase 1 - Georgia, Denver, etc 
 	How does their recovery look? Does the infection rate spike? Modifiied by their testing strategy. 
-
+```
