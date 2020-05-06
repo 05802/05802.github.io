@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2020.04.27
+category: Week Ahead
 ---
 
 **CLIMATE**
