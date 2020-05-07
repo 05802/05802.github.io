@@ -15,5 +15,7 @@ Selection of notable resources.
 *A description of common tendencies which cause one to err.*
 
 [Buffet, Warren - Owner Earnings and the Cash Flow Fallacy](assets/library/'Owner Earnings and the Cash Flow Fallacy' from The Essays of Warren Buffet.pdf)  
-*A demonstration of the adjustments required to calculate 'owners earnings'*
+*A demonstration of the adjustments required to calculate 'owners earnings'.*
 
+[Rosenbaum, Joshua - Discounted Cash FLow Analysis](assets/library/'Discounted Cash Flow' from Investment Banking - Pearlman, Rosenbum.pdf)  
+*A demonstration of the steps required to perform a DCF analysis.*
