@@ -18,7 +18,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 ## EXPECTATIONS
 * WED APR 29 0830 - Advance USA GDP Q1 est.  
    Consensus: - 4.0%
-* WED APR 29 1400 - FOMC Meeting Announcement  
+* WED APR 29 1400 - FOMC Meeting Announcement
 * WED APR 29 1430 - FOMC Meeting Announcement  
    Look for additional tools implemented, lending facilities offered to more creditors
 
