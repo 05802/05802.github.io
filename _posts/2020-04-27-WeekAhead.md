@@ -18,7 +18,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 ## EXPECTATIONS
 
 * THR APR 30 0745 - ECB Monetary Policy Decisions
-* THR APR 30 0830 - US Weekly unemployment claims  
+* THR APR 30 0830 - US Weekly unemployment claims
     Conensus: 3.5m vs 4.4m (w/w)
     
 * THR APR 30 0745 - ECB Monetary Policy Decisions
