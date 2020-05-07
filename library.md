@@ -14,3 +14,6 @@ Selection of notable resources.
 [Munger, Charlie - The Psychology of Human Misjudgement](assets/library/Psychology of Human Misjudgement, Charlie Munger.pdf)  
 *A description of common tendencies which cause one to err.*
 
+[Buffet, Warren - Owner Earnings and the Cash Flow Fallacy](assets/library/'Owner Earnings and the Cash Flow Fallacy' from The Essays of Warren Buffet.pdf)  
+*A demonstration of the adjustments required to calculate 'owners earnings'*
+
