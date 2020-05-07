@@ -24,7 +24,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 
 * THR APR 30 0745 - ECB Monetary Policy Decisions
 * THR APR 30 0830 - US Weekly unemployment claims  
-    Conensus: 3.5m vs 4.4m (w/w) 
+    Conensus: 3.5m vs 4.4m (w/w)
 
 ## THEMES
 * OIL - WTI vs. Brent & trend  
