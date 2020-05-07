@@ -8,6 +8,6 @@ Selection of notable resources.
 
 ### Writings
 
-A place to include any other types of information that you'd like to include about yourself.
+Gray, Albert - [The Common Denominator of Succes](assets/library/The Common Denominator of Sucess - Albert E.N. Gray.pdf)
 
 
