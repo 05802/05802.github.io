@@ -4,7 +4,7 @@ title: 2020.04.27
 category: [Week Ahead]
 ---
 
-##CLIMATE  
+## CLIMATE  
 Optimistic start to the week. 
 * Equity markets in Asia, Europe and USA are positive. 
 * Risk off: Dollar down, EM up, EU periphery up, EU core down. 
@@ -15,7 +15,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 * Italy prepares to announce plan 
 * Some US states implemented phase 1.
 
-##EXPECTATIONS
+## EXPECTATIONS
 * WED APR29 0830 - Advance USA GDP Q1 est.
     consensus: - 4.0%
 * WED APR29 1400 - FOMC Meeting Announcement 
@@ -26,7 +26,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 * THR APR 30 0830 - US Weekly unemployment claims 
     Conensus: 3.5m vs 4.4m (w/w) 
 
-##THEMES
+## THEMES
 * OIL - WTI vs. Brent & trend 
     June, July, Aug prices - indication of expected demand, economic activity 
     Land locked North American oil vs. floating European oil - relative recovery expectations? 
