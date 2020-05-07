@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background: #ffe5c5;
+  font: 14px/1.2 $helvetica;
   color: $darkGray;
+  overflow-x: hidden;
 }
 
 .container {
@@ -45,14 +46,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 38px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 h3 {
@@ -272,7 +273,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 10px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
