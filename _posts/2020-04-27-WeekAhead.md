@@ -4,7 +4,7 @@ title: 2020.04.27
 category: [Week Ahead]
 ---
 
-## CLIMATE  
+## SENTIMENT  
 Optimistic start to the week. 
 * Equity markets in Asia, Europe and USA are positive. 
 * Risk on: Dollar down, EM up, EU periphery up, EU core down. 
