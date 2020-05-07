@@ -18,7 +18,7 @@ Politicians around the world discussing plan to emerge from quarantine.
 ## EXPECTATIONS
 * WED APR 29 0830 - Advance USA GDP Q1 est.  
    Consensus: - 4.0%
-* WED APR 29 1400 - FOMC Meeting Announcement
+* WED APR 29 1400 - FOMC Meeting Announcement  
 * WED APR 29 1430 - FOMC Meeting Announcement  
    Look for additional tools implemented, lending facilities offered to more creditors
 
@@ -29,8 +29,11 @@ Politicians around the world discussing plan to emerge from quarantine.
 ## THEMES
 * OIL - WTI vs. Brent & trend  
    June, July, Aug prices - indication of expected demand, economic activity.
+   
    Land locked North American oil vs. floating European oil - relative recovery expectations?  
+   
    4 week avg usage -41.4% yoy  
+   
    USO - ETF rolls over from June to July contracts. Will make transact between Mon - Wed
 
 * Phase 1 - Easing of COVID restrictions in select US states  
