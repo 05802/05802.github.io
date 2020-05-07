@@ -16,11 +16,10 @@ Politicians around the world discussing plan to emerge from quarantine.
 * Some US states implemented phase 1.
 
 ## EXPECTATIONS
-<p>* WED APR 29 0830 - Advance USA GDP Q1 est.  
-<br>   Consensus: - 4.0%
-<br>* WED APR 29 1400 - FOMC Meeting minutes
-<br>* WED APR 29 1430 - FOMC Meeting press conference
-<br>   Look for additional tools implemented, lending facilities offered to more creditors </p>
+* THR APR 30 0745 - ECB Monetary Policy Decisions
+* THR APR 30 0830 - US Weekly unemployment claims  
+    Conensus: 3.5m vs 4.4m (w/w)
+    
 * THR APR 30 0745 - ECB Monetary Policy Decisions
 * THR APR 30 0830 - US Weekly unemployment claims  
     Conensus: 3.5m vs 4.4m (w/w)
