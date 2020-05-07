@@ -7,7 +7,7 @@ category: [Week Ahead]
 ## CLIMATE  
 Optimistic start to the week. 
 * Equity markets in Asia, Europe and USA are positive. 
-* Risk off: Dollar down, EM up, EU periphery up, EU core down. 
+* Risk on: Dollar down, EM up, EU periphery up, EU core down. 
 * *Contra:* Brent & WTI down 
 
 Politicians around the world discussing plan to emerge from quarantine. 
@@ -33,6 +33,6 @@ Politicians around the world discussing plan to emerge from quarantine.
     4 week avg usage 41.4% yoy
     USO - ETF rolls over from June to July contracts. Will make transact between Mon - Wed
 
-* Phase 1 - Georgia, Denver, etc 
+* Phase 1 - Easing of COVID restrictions in select US states 
 	How does their recovery look? Does the infection rate spike? Modifiied by their testing strategy. 
 
