@@ -20,7 +20,7 @@ Politicians around the world discussing plan to emerge from quarantine.
    Consensus: - 4.0%
 * WED APR 29 1400 - FOMC Meeting minutes
 * WED APR 29 1430 - FOMC Meeting press conference  
-   Look for additional tools implemented, lending facilities offered to more creditors
+   Look for additional tools implemented, lending facilities offered to more creditors 
 
 * THR APR 30 0745 - ECB Monetary Policy Decisions
 * THR APR 30 0830 - US Weekly unemployment claims  
