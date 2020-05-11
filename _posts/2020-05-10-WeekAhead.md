@@ -17,9 +17,12 @@ Markets not fighting the Fed.
 
 ## EXPECTATIONS
 * TUE MAY 12 1030 - BLS US Consumer Price Index  
+
 * WED MAY 13 1030 - EIA Crude Oil Inventories  
+
 * THR MAY 14 0830 - BLS Weekly Unemployment Claims  
     Conensus: 2.8m vs 3.2m (w/w)
+
 * FRI MAY 15 0830 - University of Michigan's Consumer Sentiment 
 * FRI MAY 15 0830 - US Retail Sales 
 * FRI MAY 15 1000 - BLS Job Openings and Labor Turnover
