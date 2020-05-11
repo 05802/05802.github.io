@@ -16,15 +16,16 @@ Markets not fighting the Fed.
 * Federal Reserve System Assets: 6.721 trillion. 
 
 ## EXPECTATIONS
+* TUE MAY 12 1030 - BLS US Consumer Price Index  
 * WED MAY 13 1030 - EIA Crude Oil Inventories  
 * THR MAY 14 0830 - BLS Weekly Unemployment Claims  
     Conensus: 2.8m vs 3.2m (w/w)
-    
 * FRI MAY 15 0830 - University of Michigan's Consumer Sentiment 
+* FRI MAY 15 0830 - US Retail Sales 
 * FRI MAY 15 1000 - BLS Job Openings and Labor Turnover
 
     
 ## THEMES
-* Delineation of the post-COVID path.
+* Delineation of the post-COVID path to 'normalcy', and what will be normal.
 * Current status of the globalist's cause, including the political and economic relationship between US and China. 
 * Rally in energy prices indicative of pre-mature optimism or emrgence from demand compression? 
