@@ -6,13 +6,14 @@ category: [Week Ahead]
 
 ## SENTIMENT  
 Risk appetite builds as roadmap out becomes more clear.
-* SP500 has recovered 57% of losses since gain.
+* SP500 has recovered 57% of losses since high.
 * *Contra:* Composition of index has changed in favor of technology incumbants. 
 * Vix trading approx. 2x Febuary lows, vs. high of 6.36 times. 
 
-Markets not fighting the FED. 
+Markets not fighting the Fed. 
 * April 2020 U6: 22.8% vs. 7.0% Febuary 2020 (May 08). 
 * Peripheral spread over core remainded relatively undchanged despite German court challenging ECB.
+* Federal Reserve System Assets: 6.721 trillion. 
 
 ## EXPECTATIONS
 * WED MAY 13 1030 - EIA Crude Oil Inventories  
