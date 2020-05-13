@@ -11,8 +11,8 @@ Risk appetite builds as roadmap out becomes more clear.
 * Vix trading approx. 2x Febuary lows, vs. high of 6.36 times. 
 
 Markets not fighting the Fed. 
-* April 2020 U6: 22.8% vs. 7.0% Febuary 2020 (May 08). 
-* Peripheral spread over core remainded relatively undchanged despite German court challenging ECB.
+* April 2020 U6: 22.8% vs. 7.0% Febuary 2020.
+* Peripheral spread over core remainded relatively unchanged despite German court challenging ECB.
 * Federal Reserve System Assets: 6.721 trillion. 
 
 ## EXPECTATIONS
@@ -29,6 +29,6 @@ Markets not fighting the Fed.
 
     
 ## THEMES
-* Delineation of the post-COVID path to 'normalcy', and what will be normal.
-* Current status of the globalist's cause, including the political and economic relationship between US and China. 
+* Delineation of the post-COVID path to 'normalcy', and what new normal might look like. 
+* Current status of the globalist's cause; including the political and economic relationship between US and China. 
 * Rally in energy prices indicative of pre-mature optimism or emrgence from demand compression? 
