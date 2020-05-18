@@ -19,3 +19,6 @@ Selection of notable resources.
 
 [Rosenbaum, Joshua - Discounted Cash Flow Analysis](assets/library/'Discounted Cash Flow' from Investment Banking - Pearlman, Rosenbum.pdf)  
 *A demonstration of the steps required to perform a DCF analysis.*
+
+[Munger, Charle - A Lesson on Elementary Worldly Wisdom] (assets/library/Munger, Charlie - A Lesson on Elementary Worldly Wisdom..pdf)  
+*A description of some of the useful models to understand life's experiences.*
