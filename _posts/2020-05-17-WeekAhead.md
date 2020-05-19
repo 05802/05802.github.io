@@ -26,4 +26,4 @@ Discussion shifts to re-instating short-term capacity.
     
 ## THEMES
 Acceleration of secular trends.
-* Which initial condition variations predict medium-long term winners and losers ? 
+* Which variations in initial condition predict medium-long term winners and losers ? 
