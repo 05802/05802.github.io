@@ -5,9 +5,13 @@ category: [Week Ahead]
 ---
 
 ## SENTIMENT  
-Energy market regains composure. 
+Energy market regains composure.
 * US crude inventories fell 700,000 barrels. First weekly decline in 16 weeks. 
-* EIA Gasoline consumption recovers to 80% of y/y demand, vs April 20 low ~ 50%
+* EIA Gasoline consumption recovers to 80% of y/y demand, vs April 20 low ~ 50%.
+
+Discussion shifts to re-instating short-term capacity.  
+* Timeline left to provincial authorities. 
+* Mixed incentives as expanded safety-net persists. 
 
 
 ## EXPECTATIONS
@@ -21,4 +25,5 @@ Energy market regains composure.
 
     
 ## THEMES
-* Winners and losers in the new normal? 
+Acceleration of secular trends.
+* Which initial condition variations predict medium-long term winners and losers ? 
