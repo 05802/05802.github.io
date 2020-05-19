@@ -34,7 +34,7 @@ Politicians around the world discussing plan to emerge from quarantine.
    
    4 week avg usage -41.4% yoy  
    
-   USO - ETF rolls over from June to July contracts. Will make transact between Mon - Wed
+   USO - ETF rolls over from June to July contracts. Will transact between Mon - Wed.
 
 * Phase 1 - Easing of COVID restrictions in select US states  
    How does their recovery look? Does the infection rate spike? Modifiied by their testing strategy. 
