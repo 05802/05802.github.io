@@ -21,7 +21,7 @@ Discussion shifts to re-instating short-term capacity.
 * WED MAY 20 0830 - Canadian CPI  
 
 * THR MAY 21 0830 - Philly Fed Manufacturing Index  
-* THR MAY 21 0945 - Perliminary MAY PMI
+* THR MAY 21 0945 - Preliminary MAY PMI
 
     
 ## THEMES
