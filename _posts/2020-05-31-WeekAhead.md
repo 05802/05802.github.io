@@ -29,3 +29,4 @@ Acceleration of secular trends.
 
 Composition of 'new world order'.
 * China's ascendence, US's decline, OPEC's market share. 
+* Areas of cooperation and fragmentation. Common and divergent standards. 
