@@ -26,3 +26,6 @@ Compliance fatigue
 Acceleration of secular trends.
 * Safety concerns may incentivize increased automation. 
 * Expansion of remote working could shift demand from dense cities. 
+
+Composition of 'new world order'.
+* China's ascendence, US's decline, OPEC's market share. 
