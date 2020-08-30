@@ -19,7 +19,7 @@ High frequency US data positively surprises
 
 
 ## DATA POINTS 
-* TUE SEP 01 1000 - ISM Manufacturing Index for August; focus on auto
+* TUE SEP 01 1000 - ISM Manufacturing Index for August; focus on auto  
   Consensus: 54.4 vs. 54.2 (July 2020)  
 
 * TUE SEP 01      - Light vehicle sales 
@@ -29,7 +29,7 @@ High frequency US data positively surprises
 
 * FRI SEP 04 0830 - Statistics Canada: Employment report 
 
-* FRI SEP 04 0830 - US BLS: Employment Situation
+* FRI SEP 04 0830 - US BLS: Employment Situation  
   Consensus: +1.4m jobs, 9.8% (vs. 1.763m, 10.2% U3 July)
 
 
@@ -39,7 +39,7 @@ Fed's statement expresses appreciation for the benefits of strong labor market
 * Increased use of Main st. lending facilities? 
 * Explicit consideration of participation rate? 
 
-Will this prompt a broader discussion of the relative importance of capitol and labor? 
+Will this prompt a broader discussion of the relative role of capitol and labor in a well functioning economy? 
 
 
 
