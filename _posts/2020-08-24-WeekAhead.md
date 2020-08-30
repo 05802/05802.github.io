@@ -14,7 +14,7 @@ Revertion of US fiscal safety net
 
 
 ## DATA POINTS 
-* TUE AUG 25 1000 - US Census Buraeu New Home Sales 
+* TUE AUG 25 1000 - US Census Buraeu New Home Sales  
   Consensus: -10k (m/m, SAAR) reduction 
 
 * THR AUG 27 0830 - GDP Q2 2nd est.  
