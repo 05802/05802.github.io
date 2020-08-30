@@ -17,7 +17,7 @@ Revertion of US fiscal safety net
 * TUE AUG 25 1000 - US Census Buraeu New Home Sales 
   Consensus: -10k (m/m, SAAR) reduction 
 
-* THR AUG 27 0830 - GDP Q2 2nd est. 
+* THR AUG 27 0830 - GDP Q2 2nd est.  
   Consensus: +0.03% annnualized vs advanced estimte
 
 * THR AUG 27 0910 - Fed Chair Jerome Powell, Monetary Policy Framework Review   
