@@ -11,7 +11,7 @@ Volatility term structure prices in higher risk of contested election
 Consumer spending provides mixed signal regarding fiscal aid cutoff  
 * Johnson Redbook (US) turned positive following 4 weeks where data was split 
 * TIPS breakeven moved to 1.56%   
-* Likelihood of fical support in the near-term materially lessens 
+* Likelihood of additional fiscal support in the near-term materially lessens 
 * CDN consumer spending grows yoy since July  
 
 ## DATA POINTS 
