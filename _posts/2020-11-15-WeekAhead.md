@@ -18,7 +18,7 @@ Asset managers search for edge
 
 
 ## DATA POINTS 
-* TUE NOV 17 0830 - Oct retails sales 
+* TUE NOV 17 0830 - Oct retails sales  
 Consensus: +0.5% m/m
 * TUE NOV 17 1100 - Q3 Report on Household Debt and Credit 
 
