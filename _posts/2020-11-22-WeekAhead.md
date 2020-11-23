@@ -5,7 +5,7 @@ category: [Week Ahead]
 ---
 
 ## SENTIMENT
-Short term risks vs. continued vaccine optimism (Moderna)
+Short term risks vs. continued vaccine optimism via Moderna  
 * US stocks trade lower on the week  
 * Still, +10.11% ytd, -1.91% from record close
 * Yields slip as expectations of Fed targeting long end of the curve increases  
@@ -14,7 +14,7 @@ Short term risks vs. continued vaccine optimism (Moderna)
 RECP shifts center of economic gravity slightly to the east    
 * Includes 30% of world GDP  
 * Notable absences include US, India  
-* China articulates points of disagreement with Australia  
+* China boldly articulates points of disagreement with Australia  
 
 
 ## DATA POINTS 
