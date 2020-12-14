@@ -16,4 +16,7 @@ Selection of notable resources.
 
 [Munger, Charle - A Lesson on Elementary Worldly Wisdom](assets/library/Munger, Charlie - A Lesson on Elementary Worldly Wisdom.pdf)  
 
+[Stango, Victor and Jonathan Zinman - We are all Behavioral, More or Less: A Taxonomy of Consumer Decision Making](assets/library/Stango, Victor. We are all Behavioral, More or Less; A Taxonomy of Consumer Decision Making. NBER Working Paper, 2020.pdf)  
+
 [Rosenbaum, Joshua - Discounted Cash Flow Analysis](assets/library/'Discounted Cash Flow' from Investment Banking - Pearlman, Rosenbum.pdf)  
+
