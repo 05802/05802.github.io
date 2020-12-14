@@ -4,9 +4,6 @@ title: Library
 permalink: /library/
 ---
 
-Selection of notable resources. 
-
-### Writings
 
 [Buffet, Warren - Owner Earnings and the Cash Flow Fallacy](assets/library/'Owner Earnings and the Cash Flow Fallacy' from The Essays of Warren Buffet.pdf)  
 
