@@ -20,7 +20,7 @@ US equities market participants expect asymmetrical return distribution
 * THR FEB 25 0830 - Initial weekly unemployment claims 
 Consensus: -16,000 w/w to 845,000 
 * THR FEB 25 0830 - GDP 2020 Q4 Est #2
-Consensus: +0.1% to 4.1% 
+Consensus: +0.1% to 4.1%  
 * FRI FEB 26 0830 - Personal Income and outlays for January 
 Consensus: +10.0% personal income, +2.5% increase in personal spending, +0.1% Core PCE
     
