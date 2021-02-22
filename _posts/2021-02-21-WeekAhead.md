@@ -25,6 +25,6 @@ Consensus: +0.1% to 4.1%
 Consensus: +10.0% personal income, +2.5% increase in personal spending, +0.1% Core PCE
     
 ## QUESTIONS
-At what point do higher long term rates drastically change the outlook for equities? 
-Is there a need to reprice certain segments of the fixed income market? 
+At what point do higher long term rates drastically change the outlook for equities?  
+Is there a need to reprice certain segments of the fixed income market?  
 On Feb 10 Fed Chairman Powell discussed alternate measures of employment and pegged a realistic number at 10%. How long will this insight remain a call to action in policy making?
