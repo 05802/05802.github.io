@@ -33,7 +33,7 @@ Consensus: 0.9% vs. 0.9% prev w., Core: 1.1% vs. 1.1% prev w.
 <br />
 
 * THR MAR 04      - OPEC-JMMC Meetings
-* THR MAR 04 1205 - Fed Chair Powell Speaks 
+* THR MAR 04 1205 - Fed Chair Powell Speaks   
 n.b. Final Fed member to speak before blackout that ends after next policy meeting (Mar 16,17)
 <br />
 
