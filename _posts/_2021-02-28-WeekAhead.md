@@ -12,22 +12,21 @@ Required return in Sovereign Treasury markets move higher
 
 Repricing prompts volatility and broad selling 
 * Yield pressure spreads, ECB called to act
-* Market partipants sell duration and volatility when MOVE and VIX traded higher 
+* Market participants sold duration and volatility when MOVE and VIX traded higher 
 * High yield spread remain muted, ICE BAML HY OAS +0.16 to 3.57%
 
 Futures market pricing in FED rate-hike ahead of schedule 
-* Canadian 10s,02s vs US  tighten, 5Y +0.13% to 0.12% 
-* Vaccine supply indicates Canada will take >2 months vs USA to reopen 
-* Other central banks may be forced to follow Bank of Australia and exert control ov their yield curve 
+* Canadian 10s,02s vs US tighten, 5Y +0.13% to 0.12% 
+* Other central banks may be forced to follow Bank of Australia and exert control over their yield curve 
 
 ## DATA POINTS 
 
 * MON MAR 01 1000 - ISM Manufacturing PMI  
-Consensus: unch. to 58.7
+Consensus: 58.7 vs. 87.7 prev w. 
 <br />
 
 * TUE MAR 02 0500 - Eurostat CPI Flash Estimate
-Consensus: unch. 0.9%, Core: unch. 1.1%
+Consensus: 0.9% vs. 0.9% prev w., Core: 1.1% vs. 1.1% prev w.
 <br />
 
 * WED MAR 03 1400 - Federal Reserve's Beige Book 
@@ -39,7 +38,7 @@ n.b. Final Fed member to speak before blackout that ends after next policy meeti
 <br />
 
 * FRI MAR 05 0830 - BLS Employment Situation 
-Consensus: Non farm emplyent change 185k vs. 49k
+Consensus: Non-farm employment change 185k vs. 49k
 
 ## QUESTIONS
 What does the MOVE index look like when 'zombie companies' lose access to credit? 
