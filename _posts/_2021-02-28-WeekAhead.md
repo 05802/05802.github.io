@@ -13,21 +13,34 @@ Required return in Sovereign Treasury markets move higher
 Repricing prompts volatility and broad selling 
 * Yield pressure spreads, ECB called to act
 * Market partipants sell duration and volatility when MOVE and VIX traded higher 
-* High yield spread remain muted 
+* High yield spread remain muted, ICE BAML HY OAS +0.16 to 3.57%
 
 Futures market pricing in FED rate-hike ahead of schedule 
 * Canadian 10s,02s vs US  tighten, 5Y +0.13% to 0.12% 
 * Vaccine supply indicates Canada will take >2 months vs USA to reopen 
-* Other central banks may be forced to follow Bank of Australia and control the yield curve 
+* Other central banks may be forced to follow Bank of Australia and exert control ov their yield curve 
 
 ## DATA POINTS 
 
+* MON MAR 01 1000 - ISM Manufacturing PMI  
+Consensus: unch. to 58.7
 <br />
 
-* FRI FEB 26 0830 - Personal Income and outlays for January  
-Consensus: +10.0% personal income, +2.5% increase in personal spending, +0.1% Core PCE
-    
+* TUE MAR 02 0500 - Eurostat CPI Flash Estimate
+Consensus: unch. 0.9%, Core: unch. 1.1%
+<br />
+
+* WED MAR 03 1400 - Federal Reserve's Beige Book 
+<br />
+
+* THR MAR 04      - OPEC-JMMC Meetings
+* THR MAR 04 1205 - Fed Chair Powell Speaks 
+n.b. Final Fed member to speak before blackout that ends after next policy meeting (Mar 16,17)
+<br />
+
+* FRI MAR 05 0830 - BLS Employment Situation 
+Consensus: Non farm emplyent change 185k vs. 49k
+
 ## QUESTIONS
-At what point do higher long term rates drastically change the outlook for equities?  
-Is there a need to reprice certain segments of the fixed income market?  
-On Feb 10 Fed Chairman Powell discussed alternate measures of employment and pegged a realistic number at 10%. How long will this insight remain a call to action in policy making?
+What does the MOVE index look like when 'zombie companies' lose access to credit? 
+Will the Bank of Canada step in to control yields? 
