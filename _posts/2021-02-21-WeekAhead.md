@@ -17,7 +17,7 @@ US equities market participants expect asymmetrical return distribution
 
 ## DATA POINTS 
 * THR FEB 25 1200 - FOMC Member Bostic Speaks 
-* THR FEB 25 0830 - Initial weekly unemployment claims 
+* THR FEB 25 0830 - Initial weekly unemployment claims  
 Consensus: -16,000 w/w to 845,000 
 * THR FEB 25 0830 - GDP 2020 Q4 Est #2
 Consensus: +0.1% to 4.1%  
