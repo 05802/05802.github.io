@@ -29,7 +29,7 @@ Geo-politcal tensions
 * TUE MAR 09 1130 - UST 3Y Auction
 <br />
 
-* WED MAR 10 1130 - UST 10Y Auction
+* WED MAR 10 1130 - UST 10Y Auction  
 * WED MAR 10 0830 - Chicago Fed National Fiancial Condiditons Index
 <br />
 
