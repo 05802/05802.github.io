@@ -10,14 +10,19 @@ Yields continue higher with less volatility
 * Fed enters blackout pointing to adequate financial conditions
 * Chicago Fed NFCI prev. print is 20th percentile (5Y), - 12.5% from median 
 
+Equity rotation into small cap and value 
+* QQQ: +9.04% T6M, -1.61% YTD  
+* RUT: +42.79% T6M, +11 % YTD     
+
 Economic divergence among major economies 
 * China continues to decelerate, ECB contracting, US expanding
 * DXY +1.15%
 * Together with higher yields: undermines ECB and EM recovery  
 
-Equity rotation into small cap and value 
-* QQQ: +9.04% T6M, -1.61% YTD  
-* RUT: +42.79% T6M, +11 % YTD     
+Geo-politcal tensions
+* Australia / China 
+* Russia / Pfizer
+* China / Microsoft 
 
 ## DATA POINTS 
 
