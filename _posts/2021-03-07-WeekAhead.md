@@ -17,7 +17,7 @@ Equity rotation into small cap and value
 Economic divergence among major economies 
 * China continues to decelerate, ECB contracting, US expanding
 * DXY +1.15%
-* Together with higher yields: undermines ECB and EM recovery  
+* Together with higher yields: undermines ECB, EM and reflation theses  
 
 Geo-politcal tensions
 * Australia / China 
