@@ -45,3 +45,4 @@ Consensus: +3.0% m/m
 ## Questions 
 * How far will the US go to defend an international order? 
 * Did Blinked draw a line inside military intervention? Does China have a comparable line?
+* What (ex-ante) differentiates a company which can execute amidst high expectations and optimism, in what will, nevertheless, be a difficult managerial period?
