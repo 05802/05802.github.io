@@ -25,7 +25,7 @@ Geo-political fault lines re-emerge
 
 ## DATA POINTS 
 * MON APR 12 1030 - BOC Business Outlook
-* MON APR 12 1300 - 10Y US Treasury Auction, $58 B
+* MON APR 12 1300 - 10Y US Treasury Auction, $38 B
 * TUE APR 13 1300 - 30Y US Treasury Auction, $24 B  
 
 <br />
