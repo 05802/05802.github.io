@@ -8,7 +8,7 @@ category: [Week Ahead]
 
 Bank of Canada suggests economy requires less monetary support  
 *  Prior to BOC update, forward curve implied 1m overnight rate at 1% before April 2023, 2% by Jan 2025   
-*  Current forward curve implies 1% by Jan 2023, 2% in Q4 2025, market moved in line with BOC implied guidance, suggesting credibility  
+*  Current forward curve implies 1% by Jan 2023, 2% in Q4 2024, market moved in line with BOC implied guidance, suggesting credibility  
 *  Medium and longer term, term premium remains relatively unchanged: 2y1y 1.492% vs. 1.486% m/m, 5y5y 2.36% vs. 2.43% m/m 
 
 USD rate market remains in line with Fed guidance    
