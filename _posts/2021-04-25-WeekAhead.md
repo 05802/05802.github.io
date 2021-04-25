@@ -20,7 +20,7 @@ Euro swap market finds increase in long run inflation expectations
 *  2y1y -0.39% vs. -0.45% m/m  
 *  5y5y 0.41% vs 0.33% m/m    
 
-EIA reported inventory buildup  
+EIA reported crude oil inventory buildup  
 * +594k vs. consensus 3m drawdown  
 * India's covid surge and subsequent reduction of mobility expected to weight on demand  
 
