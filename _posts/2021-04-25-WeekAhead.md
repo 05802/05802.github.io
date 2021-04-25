@@ -9,7 +9,7 @@ category: [Week Ahead]
 Bank of Canada suggests economy requires less monetary support  
 *  Prior to BOC update, rate curve implied 1m overnight rate at 1% before April 2023, 2% by Jan 2025   
 *  Current curve implies 1% by Jan 2023, 2% in Q4 2024, market moved in line with BOC implied guidance, suggesting credibility  
-*  Long and medium term premium remains relatively unchanged: 2y1y 1.492% vs. 1.486% m/m, 5y5y 2.36% vs. 2.43% m/m 
+*  Long and medium term premium remains relatively unchanged: 5y5y 2.36% vs. 2.43% m/m, 2y1y 1.492% vs. 1.486% m/m  
 
 USD rate market remains in line with Fed guidance    
 *  A 1 year loan, 2 years from today is priced at 0.84%, vs. March 23 2y1y rate of 0.78%     
