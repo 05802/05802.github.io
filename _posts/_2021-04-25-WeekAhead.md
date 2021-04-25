@@ -35,6 +35,8 @@ Consensus: 2.5% m/m, Core: 1.6% m/m, prev. -0.9%
 
 * WED APR 28      - OPEC-JMMC Meetings  
 * WED APR 28 1400 - FOMC Statement  
+* WED APR 28 1630 - AAPL Q2 Fiscal Results  
+Consensus: 77.62b rev, .99 EPS     
 
 <br />
 
