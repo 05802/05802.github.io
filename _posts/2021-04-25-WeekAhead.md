@@ -14,6 +14,7 @@ Bank of Canada suggests economy requires less monetary support
 USD rate market remains in line with Fed guidance    
 *  A 1 year loan, 2 years from today is priced at 0.84%, vs. March 23 2y1y rate of 0.78%     
 *  5y5y 2.10% vs 2.25% m/m
+*  LIBOR implied rate hike is in Q1 2022  
 
 Euro swap market finds increase in long run inflation expectations      
 *  2y1y -0.39% vs. -0.45% m/m  
@@ -40,10 +41,10 @@ Consensus: 77.62b rev, .99 EPS
 
 <br />
 
-* THR APR 29 0830 - Advance GDP Estimate, quarterly
-Consensus: 6.5% Annualized, prev. 4.3%   
+* THR APR 29 0830 - Advance GDP Estimate, quarterly  
+Consensus: 6.5% SAAR, prev. 4.3%   
 * THR APR 29 0830 - Unemployment Claims, weekly  
-Consensus: 545k vs. 547k  
+Consensus: 525k vs. 547k  
 
 * FRI APR 30      - Euro Preliminary GDP Estimate, quarterly 
 
