@@ -6,40 +6,37 @@ category: [Week Ahead]
 
 ## SENTIMENT
 
-Bank of Canada suggests economy requires less monetary support  
-*  Prior t
+Commodity prices conitnue to increase 
+*  CRB Commodity Index +71% y/y, 6% 2y CAGR   
+*  Goldman flags commodity stregnth, forecasts $80/ barrel crude due to demand exceeding supply  
+*  Opec + maintains 8m barrel/ day voluntary output cut, plan to add 2.1m barrel/ day from May to June, remained unchanged  
+*  Additional demand and exogenous supply constraints (weather, throughput capacity) are expected to continue to weigh on supply, leading to higher prices 
 
+Swap market prices steeper term structure
+* USD: 2.21% 5y5y, 0.86% 2y1y (Apr 30) 
+* CAD: 2.41% 5y5y, 1.49% 2y1y (May 03)
+* EUR: 0.44% 5y5y, -0.36% 2y1y (May 04)
+* Only the US' curve shifted higher in both tenors 
 
 ## DATA POINTS 
 
-* MON APR 26 0400 - German IFO Business Climate Index  
-Consensus: 97.8   
-* MON APR 26 0830 - US Durable Goods Orders  
-Consensus: 2.5% m/m, Core: 1.6% m/m, prev. -0.9%  
-* MON APR 26 1300 - 5Y US Treasury Auction, $61 B
+* TUE MAY 04 1300 - Canada Trade Balance 
+Consensus: 0.5b
 
 <br />
 
-* TUE APR 27 1300 - 7Y US Treasury Auction, $62 B
+* WED MAY 05 1030 - EIA Crude Oil Inventories 
 
 <br />
 
-* WED APR 28      - OPEC-JMMC Meetings  
-* WED APR 28 1400 - FOMC Statement  
-* WED APR 28 1630 - AAPL Q2 Fiscal Results  
-Consensus: 77.62b rev, .99 EPS     
+* THR MAY 06 0700 - BOE Asset Purchase Facility Votes 
 
 <br />
 
-* THR APR 29 0830 - Advance GDP Estimate, quarterly  
-Consensus: 6.5% SAAR, prev. 4.3%   
-* THR APR 29 0830 - Unemployment Claims, weekly  
-Consensus: 525k vs. 547k  
-
-<br />
-
-* FRI APR 30      - Euro Preliminary GDP Estimate, quarterly 
-
+* FRI May 07 0830 - Canada's Monthly Employment Change Report 
+* FRI May 07 0830 - United State's Monthly Employment Change Report 
 
 ## Questions 
-* 
+* Are companies investing in adding long term capacity? 
+* Are current demand levels considered transitory?
+* Are increasing strategic inventory levels contirubting to commodity demand? Will this effect reverse in future quarters?
