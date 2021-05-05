@@ -21,15 +21,15 @@ Swap market prices steeper term structure
 ## DATA POINTS 
 
 * TUE MAY 04 1300 - Canada Trade Balance 
-Consensus: 0.5b
+Consensus: 0.5b  
 
 <br />
 
-* WED MAY 05 1030 - EIA Crude Oil Inventories 
+* WED MAY 05 1030 - EIA Crude Oil Inventories  
 
 <br />
 
-* THR MAY 06 0700 - BOE Asset Purchase Facility Votes 
+* THR MAY 06 0700 - BOE Asset Purchase Facility Votes  
 
 <br />
 
