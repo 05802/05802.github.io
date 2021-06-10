@@ -18,10 +18,10 @@ Global central bankers remain largely united in 'transitory' chorus
 
 ## DATA POINTS 
 
-* TUE JUN 08 0830 - US Trade balance
+* TUE JUN 08 0830 - US Trade balance  
 Consensus: 69b deficit 
 
-* TUE JUN 08 0830 - CA Trade balance
+* TUE JUN 08 0830 - CA Trade balance  
 Consensus: 0.6b deficit 
 
 <br />
@@ -31,7 +31,7 @@ Consensus: 0.6b deficit
 
 <br />
 
-* THR JUN 10 0830 - US May CPI
+* THR JUN 10 0830 - US May CPI  
 Consensus: Core: 3.4% y/y
 
 
